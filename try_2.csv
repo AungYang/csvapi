@@ -1,7 +1,4 @@
-Table 4-51:  Air Pollution Trends in Selected Metropolitan Statistical Areas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(Number of days with AQI values greater than 100 at monitoring sites),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Sites in 2010,Sites in 2020,Number of days with AQI > 100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,1980,1985,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+﻿,,,1980,1985,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
 "Akron, OH",7,6,230,123,113,143,119,133,81,60,75,77,88,102,68,93,90,74,70,74,42,38,17,4,18,7,7,3,1,1,1,0,1,3,4
 "Albany-Schenectady-Troy, NY",6,8,87,24,28,27,17,17,18,23,13,13,15,28,8,25,35,17,17,20,9,24,11,3,9,3,8,0,0,2,3,0,3,0,3
 "Albuquerque, NM",(R) 22,18,51,19,26,15,7,9,17,15,21,15,21,20,35,17,28,57,23,26,27,26,6,3,5,28,25,9,1,4,3,4,24,4,10
@@ -90,13 +87,3 @@ Table 4-51:  Air Pollution Trends in Selected Metropolitan Statistical Areas,,,,
 "Wichita, KS",9,9,14,14,12,22,10,1,6,11,8,20,29,20,27,37,29,23,2,16,25,4,3,6,13,23,34,8,4,0,1,0,0,0,6
 "Worcester, MA",5,4,41,31,13,24,30,19,35,30,15,26,27,36,17,33,39,20,15,22,17,30,11,8,7,6,10,4,2,3,5,5,7,1,0
 "Youngstown-Warren-Boardman,  OH",13,10,120,69,54,78,47,68,58,50,50,37,60,51,30,59,48,30,30,47,20,39,19,7,17,11,25,4,6,5,6,4,5,0,4
-KEY:  AQI = Air Quality Index; N = data do not exist; R = revised.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
- ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-NOTES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"The Air Quality Index (AQI) integrates information on 6 major pollutants (particulate matter less than 10 microns in diameter, particulate matter less than 2.5 microns in diameter, sulfur dioxide, carbon monoxide, ozone, and nitrogen dioxide) across an entire monitoring network into a single number that represents the worst daily air quality experienced in an urban area. An AQI greater than 100 indicates that at least 1 criteria pollutant exceeded air quality standards on a given day; therefore, air quality would be in the unhealthful range on that day.  Air quality monitoring sites are selected as ""trend sites"" if they have complete data for at least 8 of the 10 last years.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"The major reason for revisions to the historical data for the AQI is that changes in the National Ambient Air Quality Standards (NAAQS) are retroactively applied to the data for previous years to provide consistent comparisons over time. In addition, data from monitoring stations that have fallen below/surpassed the criterion to qualify as a 'trend site' is excluded/included in the latest calculation of the index.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Data for 1999 to 2009 include particulate matter 2.5 micron in diameter (PM 2.5).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Particulate matter is the term for solid or liquid particles found in the air.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-SOURCE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"U.S. Environmental Protection Agency, Office of Air and Radiation, Air Trends, Air Quality Index: Daily AQI, available at https://aqs.epa.gov/aqsweb/airdata/download_files.html as of Jun. 10, 2021.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
